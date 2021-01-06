@@ -56,6 +56,22 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[3.1.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[5.6.3, )"
             }
           },
           "imports": [

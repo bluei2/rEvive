@@ -89,3 +89,7 @@
 /Users/raffyipac/revive/rEvive/rEvive.Api/obj/Debug/netcoreapp3.1/rEvive.Api.dll
 /Users/raffyipac/revive/rEvive/rEvive.Api/obj/Debug/netcoreapp3.1/rEvive.Api.pdb
 /Users/raffyipac/revive/rEvive/rEvive.Api/obj/Debug/netcoreapp3.1/rEvive.Api.genruntimeconfig.cache
+/Users/raffyipac/revive/rEvive/rEvive.Api/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/raffyipac/revive/rEvive/rEvive.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/raffyipac/revive/rEvive/rEvive.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/raffyipac/revive/rEvive/rEvive.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
