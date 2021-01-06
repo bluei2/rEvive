@@ -46,6 +46,7 @@ namespace rEvive.Api
                 return BadRequest();
             }
         }
+        [HttpPost("Login")]
         public async Task<IActionResult> LoginAsync(UserModel model, string returnUrl = null)
         {
             returnUrl = returnUrl ?? Url.Content("~/");
